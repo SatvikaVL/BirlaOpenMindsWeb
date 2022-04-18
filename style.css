@@ -1,0 +1,47 @@
+body{
+    text-align: center;
+}
+#video{
+    margin: 30px;
+    border-width: 12px;
+    border-style: solid;
+}
+ul{
+    font-size: 23px;
+}
+#brand{
+    font-size: 27px;
+}
+li:hover{
+    text-decoration: underline;
+}
+.clMainDiv{
+    border: 1px solid lightgray ;
+}
+.clMainDiv img{
+    width: 100%;
+}
+.clMainDiv h5 , .clMainDiv p{
+    margin: 20px;
+}
+.movie_head{
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+.movie_head i{
+    float: right;
+}
+.achievment_text span{
+    color: orange;
+}
+.new{
+    margin-bottom: 20px;
+}
+#contact iframe{
+    width: 100%;
+}
+#contact{
+    text-align: left;
+}
